@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 export default function Welcome() {
-    const nombreUsuario = "Sergio Montes";
+    const nombreUsuario = "Álvaro Escudero";
     
     const [tareas, setTareas] = useState([
         "Instalar Laravel", 
